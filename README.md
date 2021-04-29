@@ -1,19 +1,19 @@
-### Hey 👋, I'm [Dickens!](https://www.snave.co.ke/)
+### Hey 👋, I'm [Dickens!](https://dickensjuma.github.io/Portfolio-Dickens//)
 
 <a href="https://github.com/DickensJuma">
-  <img align="left" alt="Alexandru Bangau | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Dickens Juma | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexandru-bangau/">
-  <img align="left" alt="Alex' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dickens Juma' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/alex_maxinova">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Dickens Juma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/alex_maxinova">
-  <img align="left" alt="Alex' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Dickens Juma Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.alex-portfolio.org/">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
+  <img align="left" alt="Dickens Juma Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
 </a>
 <br />
 <br />
@@ -25,8 +25,8 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on the Final Capstone ([Microverse Curriculum](https://www.microverse.org/#world-class-curriculum))
-- 🌱 I’m currently learning JavaScript
+- 👨🏽‍💻[Resume](https://dickensjuma.github.io/Portfolio-Dickens/)
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: One thing on my bucket list is to visit Amazon Forest
