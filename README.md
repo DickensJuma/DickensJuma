@@ -25,7 +25,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Preview of my skills and experience[Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
+- 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
