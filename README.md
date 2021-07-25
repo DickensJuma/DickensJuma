@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Dickens!](https://dickensjuma.github.io/Portfolio-Dickens//)
+### Hey 👋, I'm [Dickens!](https://www.jumadickens.cf/)
 
 <a href="https://github.com/DickensJuma">
   <img align="left" alt="Dickens Juma | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -26,7 +26,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: One thing on my bucket list is to visit Amazon Forest
