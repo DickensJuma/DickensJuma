@@ -29,7 +29,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: One thing on my bucket list is to visit Amazon Forest
+- ⚡️ Fun-Fact: My favourite food is chapati
 - 📫 How to reach me: dickensjuma13@gmail.com
 - 😄 Pronouns: di[knz]
 - 📝 [Resume](https://docs.google.com/document/d/1RZAovNhmwW3gWvWEZP8ZUeoYoLb09p2-5l585ZA6rlI/edit?usp=sharing)
