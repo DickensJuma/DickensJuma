@@ -32,7 +32,7 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: One thing on my bucket list is to visit Amazon Forest
 - 📫 How to reach me: dickensjuma13@gmail.com
 - 😄 Pronouns: di[knz]
-- 📝 [Resume](https://docs.google.com/document/d/1p6QX-rKi3JBqWBXNG_6qvqG7lyPj4fGyw5tfuPvOi-8/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/1RZAovNhmwW3gWvWEZP8ZUeoYoLb09p2-5l585ZA6rlI/edit?usp=sharing)
 
 ![Profile views](https://gpvc.arturio.dev/DickensJuma)
 
