@@ -18,15 +18,15 @@
 <br />
 <br />
 
-Hi, I'm Dickens Juma, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
-Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
+Hi, I'm Dickens Juma, a Software Engineer 🚀. I'm a creative problem-solving enthusiast, with a constantly growing love for languages.
+Passionate about ideating, conceptualizing, and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 ##
 <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Python, DevOps
 - 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: My favourite food is chapati
