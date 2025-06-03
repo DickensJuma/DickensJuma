@@ -36,6 +36,7 @@ I’m passionate about solving real-world problems through open-source contribut
 - 🌍 Built cross-border fintech apps used in Kenya, Ghana, Nigeria & Uganda
 - 🔒 Designed secure APIs with JWT, OAuth2, and advanced rate limiting
 - 💡 Open-source contributor to blockchain, LMS, and healthcare projects
+- Commnunity facilitator - Pamoja Community [link](https://medium.com/@dickensjuma13/solving-the-unemployment-crisis-among-software-developers-in-kenya-19ddf9886cd5)
 - 📫 Let's Connect
 - 📂 [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
 - 📝 [Resume](https://docs.google.com/document/d/1Tl3oy6lUHTGGWgffu3_89XzygjzzI9oo4WJ5yanMIFg/edit?usp=sharing)
