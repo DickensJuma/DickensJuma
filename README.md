@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Dickens!](https://www.jumadickens.cf/) — Full-Stack Developer | Backend Engineer | Open Source Contributor.
+### Hey 👋, I'm [Dickens!](https://dickensjuma.github.io/Portfolio-Dickens/) — Full-Stack Developer | Backend Engineer | Open Source Contributor.
 
 <a href="https://github.com/DickensJuma">
   <img align="left" alt="Dickens Juma | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
