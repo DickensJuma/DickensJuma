@@ -25,28 +25,27 @@ I’m passionate about solving real-world problems through open-source contribut
 <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 🔧 My Tech Stack
-Languages & Frameworks: Node.js, TypeScript, Java, React, Spring Boot, Express.js
-Databases: PostgreSQL, MongoDB, Redis, MySQL
-Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD
-Other Tools: GraphQL, OAuth2, Webhooks, Stripe, Kafka
+- Languages & Frameworks: Node.js, TypeScript, Java, React, Spring Boot, Express.js
+- Databases: PostgreSQL, MongoDB, Redis, MySQL
+- Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD
+- Other Tools: GraphQL, OAuth2, Webhooks, Stripe, Kafka
 
 📌 Key Highlights
 
-🚀 Founder of Spark.co.ke — A business management platform for beauty & wellness
-🌍 Built cross-border fintech apps used in Kenya, Ghana, Nigeria & Uganda
-🔒 Designed secure APIs with JWT, OAuth2, and advanced rate limiting
-💡 Open-source contributor to blockchain, LMS, and healthcare projects
-📫 Let's Connect
-📂 [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
-📝 [Resume](https://docs.google.com/document/d/1Tl3oy6lUHTGGWgffu3_89XzygjzzI9oo4WJ5yanMIFg/edit?usp=sharing)
-💬 Email me at: dickensjuma13@gmail.com
+- 🚀 Founder of Spark.co.ke — A business management platform for beauty & wellness
+- 🌍 Built cross-border fintech apps used in Kenya, Ghana, Nigeria & Uganda
+- 🔒 Designed secure APIs with JWT, OAuth2, and advanced rate limiting
+- 💡 Open-source contributor to blockchain, LMS, and healthcare projects
+- 📫 Let's Connect
+- 📂 [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
+- 📝 [Resume](https://docs.google.com/document/d/1Tl3oy6lUHTGGWgffu3_89XzygjzzI9oo4WJ5yanMIFg/edit?usp=sharing)
+- 💬 Email me at: dickensjuma13@gmail.com
 
-🔗 LinkedIn | GitHub | [Medium](https://medium.com/@dickensjuma13) | 
-🎯 Fun Facts
-🧠 Currently learning: Python, DevOps, system design
-🍽 Favorite food: Chapati
-😄 Pronouns: He/Him
-🤝 Always open to remote backend/full-stack roles, collaborations, or mentorship
+🔗 [LinkedIn](https://www.linkedin.com/in/dickens-juma/) | [GitHub](https://github.com/DickensJuma) | [Medium](https://medium.com/@dickensjuma13) | 
+- 🎯 Fun Facts
+- 🧠 Currently learning: Python, DevOps, system design
+- 🍽 Favorite food: Chapati
+- 🤝 Always open to remote backend/full-stack roles, collaborations, or mentorship
 
 ![Profile views](https://gpvc.arturio.dev/DickensJuma)
 
