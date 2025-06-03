@@ -18,21 +18,35 @@
 <br />
 <br />
 
-Hi, I'm Dickens Juma, a Software Engineer 🚀. I'm a creative problem-solving enthusiast, with a constantly growing love for languages.
-Passionate about ideating, conceptualizing, and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
+Hi, I'm Dickens Juma — Full-Stack Developer | Backend Engineer | Open Source Contributor. I'm a Software Engineer with over 5 years of experience building scalable, high-performance web applications in the fintech, insurtech, and SaaS industries. I specialize in backend development with Node.js, TypeScript, PostgreSQL, and microservice architectures, and I have led engineering efforts for startups and remote teams across Africa and the globe.
+
+I’m passionate about solving real-world problems through open-source contributions, clean code, and efficient system design. I enjoy turning ideas into robust, user-centered products—whether it’s building an ERP system from scratch, integrating AI APIs, or reducing cloud infrastructure costs with serverless deployments.
 ##
 <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
-**Talking about Personal Stuffs:**
+🔧 My Tech Stack
+Languages & Frameworks: Node.js, TypeScript, Java, React, Spring Boot, Express.js
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD
+Other Tools: GraphQL, OAuth2, Webhooks, Stripe, Kafka
 
-- 👨🏽‍💻 Preview of my skills and experience: [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
-- 🌱 I’m currently learning Python, DevOps
-- 👯 I’m looking to collaborate on DevPost
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: My favourite food is chapati
-- 📫 How to reach me: dickensjuma13@gmail.com
-- 😄 Pronouns: di[knz]
-- 📝 [Resume](https://docs.google.com/document/d/1RZAovNhmwW3gWvWEZP8ZUeoYoLb09p2-5l585ZA6rlI/edit?usp=sharing)
+📌 Key Highlights
+
+🚀 Founder of Spark.co.ke — A business management platform for beauty & wellness
+🌍 Built cross-border fintech apps used in Kenya, Ghana, Nigeria & Uganda
+🔒 Designed secure APIs with JWT, OAuth2, and advanced rate limiting
+💡 Open-source contributor to blockchain, LMS, and healthcare projects
+📫 Let's Connect
+📂 [Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
+📝 [Resume](https://docs.google.com/document/d/1Tl3oy6lUHTGGWgffu3_89XzygjzzI9oo4WJ5yanMIFg/edit?usp=sharing)
+💬 Email me at: dickensjuma13@gmail.com
+
+🔗 LinkedIn | GitHub | [Medium](https://medium.com/@dickensjuma13) | 
+🎯 Fun Facts
+🧠 Currently learning: Python, DevOps, system design
+🍽 Favorite food: Chapati
+😄 Pronouns: He/Him
+🤝 Always open to remote backend/full-stack roles, collaborations, or mentorship
 
 ![Profile views](https://gpvc.arturio.dev/DickensJuma)
 
