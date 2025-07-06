@@ -25,7 +25,7 @@ I’m passionate about solving real-world problems through open-source contribut
 <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 🔧 My Tech Stack
-- Languages & Frameworks: Node.js, TypeScript, Java, React, Spring Boot, Express.js
+- Languages & Frameworks: Node.js, TypeScript, React, Vue.js, Express.js
 - Databases: PostgreSQL, MongoDB, Redis, MySQL
 - Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD
 - Other Tools: GraphQL, OAuth2, Webhooks, Stripe, Kafka
@@ -44,7 +44,7 @@ I’m passionate about solving real-world problems through open-source contribut
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dickens-juma/) | [GitHub](https://github.com/DickensJuma) | [Medium](https://medium.com/@dickensjuma13) | 
 - 🎯 Fun Facts
-- 🧠 Currently learning: Python, DevOps, system design
+- 🧠 Currently learning: AI, ML, DevOps, system design
 - 🍽 Favorite food: Chapati
 - 🤝 Always open to remote backend/full-stack roles, collaborations, or mentorship
 
