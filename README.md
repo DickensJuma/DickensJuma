@@ -25,10 +25,13 @@ I’m passionate about solving real-world problems through open-source contribut
 <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
 
 🔧 My Tech Stack
-- Languages & Frameworks: Node.js, TypeScript, React, Vue.js, Express.js
+- Languages & Frameworks: Node.js, TypeScript, Nest.js, React, Vue.js, Express.js
+- Architecture & APIs: REST, GraphQL, Microservices, Event-Driven Systems (Kafka, Pub/Sub), System Design
 - Databases: PostgreSQL, MongoDB, Redis, MySQL
-- Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD
-- Other Tools: GraphQL, OAuth2, Webhooks, Stripe, Kafka
+- Cloud & DevOps: AWS, Docker, GitHub Actions, Terraform, CI/CD, Serverless
+- Security & Testing: OAuth2, JWT, SAML | Jest, Cypress, Supertest
+- AI & Emerging Tech: OpenAI API, LangChain, Pinecone
+- Tools & Methodologies: Agile, Scrum, Jira, Notion, Webhooks
 
 📌 Key Highlights
 
