@@ -18,7 +18,7 @@
 <br />
 <br />
 
-I'm a Software Engineer with over 5 years of experience building scalable, high-performance web applications in the fintech, insurtech, and SaaS industries. I specialize in backend development with Node.js, TypeScript, PostgreSQL, and microservice architectures, and I have led engineering efforts for startups and remote teams across Africa and the globe.
+I'm a Software Engineer with over 5 years of experience building scalable, high-performance web applications in the Fintech, Insurtech, HR systems, AI solutions and SaaS industries. I specialize in backend development with Node.js, TypeScript, PostgreSQL, and microservice architectures, and I have led engineering efforts for startups and remote teams across Africa and the globe.
 
 I’m passionate about solving real-world problems through open-source contributions, clean code, and efficient system design. I enjoy turning ideas into robust, user-centered products—whether it’s building an ERP system from scratch, integrating AI APIs, or reducing cloud infrastructure costs with serverless deployments.
 ##
